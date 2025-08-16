@@ -6,7 +6,10 @@ This project involved the design, integration, and demonstration of a mobile rob
 The final system demonstrates the following:  
 - Autonomous movement towards a beacon/target.  
 - Controlled and precise placement of an object onto the target without disturbing it.  
-- Post-task signaling and safe movement to the arena’s side.  
+- Post-task signaling and safe movement to the arena’s side.
+
+![1](/screenshots/1.jpg)  
+![2](/screenshots/2.jpg)  
 
 ---
 
