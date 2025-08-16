@@ -57,3 +57,5 @@ The final system demonstrates the following:
 - Incremental subsystem tests (mechanical, electrical, software).  
 - Full-system dry runs under multiple beacon/target placements.  
 - Debugging and optimization for smooth localization and controlled approach.  
+
+Team Members: Alex, Karanbir Gosal, Tanvir Kahlon, Tavin
